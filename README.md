@@ -20,7 +20,7 @@
 
 ### Code Sample
 ``` 
-import redistributable;
+import "github.com/noneymous/go-redistributable-checker"
 
 if redistributable.IsInstalled(redistributable.VC2017x64) {
   //go on
