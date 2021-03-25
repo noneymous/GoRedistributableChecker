@@ -29,7 +29,5 @@ if redistributable.IsInstalled(redistributable.VC2017x64) {
 
 ### Notes
 Worked on my **Windows 10 (x64)**
-   
 Derived from : https://github.com/bitbeans/RedistributableChecker
-
 Windows Registry Keys taken from: https://stackoverflow.com/a/34209692/4013391
