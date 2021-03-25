@@ -1,4 +1,4 @@
-# GoRedistributableChecker
+# Go Redistributable Checker
 
 ### Supported redistributables
 - Microsoft Visual C++ Redistributable Package 2015 - 2019 (x86) :heavy_check_mark:
